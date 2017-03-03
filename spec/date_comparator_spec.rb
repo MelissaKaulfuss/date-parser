@@ -13,14 +13,6 @@ describe DateComparator do
         expect(subject).to eq( "4 days" )
       end
     end
-
-    # context 'with invalid dates' do
-    #   let(:date_one) { "27-01-2017" }
-    #   let(:date_two) { "31-01-2015" }
-    #   it 'prints a message' do
-    #     expect(subject).to eq("your dates are not correct!")
-    #   end
-    # end
   end
 
 end
