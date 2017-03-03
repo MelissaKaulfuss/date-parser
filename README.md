@@ -32,4 +32,3 @@ The source files, the test data and any test code.
 
 * Ruby 2.2.2
 * rspec 3.5.4
-
